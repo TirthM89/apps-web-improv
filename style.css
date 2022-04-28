@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+ font-weight: 300;
+
+}
+#app{
+    background-color: blue;
+}
+#game{
+    background-color: burlywood;
+
+}
+#game img{
+    width: 200px;
+}
+#game img:hover{
+    transform: scale(1.2);
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarousel h1{
+color: orangered;
+}
+#myCarousel h3{
+text-emphasis-color: blue;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    
+}
+.carousel-inner img:hover{
+    transform: scale(1.4);
+}
